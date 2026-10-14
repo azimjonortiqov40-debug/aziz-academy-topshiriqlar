@@ -1,0 +1,5 @@
+eni, boyi = input().split()
+eni = int(eni)
+boyi = int(boyi)
+print("Yuza:", eni * boyi)
+print("Perimetr:", 2 * (eni + boyi))
